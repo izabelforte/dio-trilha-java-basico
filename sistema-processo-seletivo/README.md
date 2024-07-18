@@ -1,18 +1,9 @@
-## Getting Started
+# Exercício Processo Seletivo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Exercício proposto no curso "Aprendendo Sintaxe Java" ministrado por Gleyson Sampaio Java Expert Dio
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+A proposta do Exercício/desafio é treinar todo o exposto até aqui principalmente os controles de fluxo como if/else, for, while e do while, junto com a criação e chamada de métodos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- A Proposta do desafio pode ser encontrada em 
+https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo
